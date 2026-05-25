@@ -10,5 +10,9 @@ Wikipidea country-wise covid satuts
 Group by
 <img width="1710" height="1107" alt="Screenshot 2026-05-25 at 4 06 28 PM" src="https://github.com/user-attachments/assets/a9848f43-82ef-4a9e-816f-a565e2c01b7e" />
 
+Wikipidea Html
+<img width="573" height="191" alt="Screenshot 2026-05-25 at 4 48 15 PM" src="https://github.com/user-attachments/assets/c4ab5f26-cbe0-4ee1-b1dc-32e6c40823e7" />
+
+
 
 
